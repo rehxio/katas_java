@@ -1,3 +1,5 @@
+package refactoring;
+
 import java.security.InvalidParameterException;
 
 public class Encryptor {

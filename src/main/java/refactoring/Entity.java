@@ -1,3 +1,5 @@
+package refactoring;
+
 /*
  * This code has been extracted from OpenbravoERP:
  * https://code.openbravo.com/erp/stable/2.50-bp/file/cec9b1da72ed/src/org/openbravo/base/model/Entity.java
