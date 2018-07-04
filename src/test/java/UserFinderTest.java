@@ -1,7 +1,6 @@
 import org.junit.Test;
 import tdd.User;
 import tdd.UserFinder;
-import tdd.UserRepository;
 
 import java.util.List;
 
