@@ -9,7 +9,12 @@ public class Reporter {
         this.writer = writer;
     }
 
-    public void generateReportBy(String profile){
 
+    public void generateReportBy(String profile){
+        // 1. Find users via finder
+
+        // 2. Builds one UserReport instance with results
+
+        // 3. Ask the writer to write the report
     }
 }

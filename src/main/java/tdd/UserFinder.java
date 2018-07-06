@@ -10,6 +10,7 @@ public class UserFinder {
     }
 
     public List<User> findByProfile(String profile){
+        // INCOMPLETE
         List<User> allUsers = this.repository.findAll();
         return allUsers;
     }

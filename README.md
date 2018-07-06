@@ -1,2 +1,5 @@
-# java-katas
-javakatas
+# Java Katas
+
+- UserFinder
+- ReporterWriter
+- JavaShould
